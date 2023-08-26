@@ -1,0 +1,321 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Usuario\\Documents\\REPOSITORIOS\\ESCMB_TrabajoFinal_PAII\\ESCMB.HybridDDDArchitecture\\ESCMB.HybridDDDArchitecture\\ESCMB.API\\ESCMB.API.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Usuario\\Documents\\REPOSITORIOS\\ESCMB_TrabajoFinal_PAII\\ESCMB.HybridDDDArchitecture\\ESCMB.HybridDDDArchitecture\\ESCMB.API\\ESCMB.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Usuario\\Documents\\REPOSITORIOS\\ESCMB_TrabajoFinal_PAII\\ESCMB.HybridDDDArchitecture\\ESCMB.HybridDDDArchitecture\\ESCMB.API\\ESCMB.API.csproj",
+        "projectName": "ESCMB.API",
+        "projectPath": "C:\\Users\\Usuario\\Documents\\REPOSITORIOS\\ESCMB_TrabajoFinal_PAII\\ESCMB.HybridDDDArchitecture\\ESCMB.HybridDDDArchitecture\\ESCMB.API\\ESCMB.API.csproj",
+        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Usuario\\Documents\\REPOSITORIOS\\ESCMB_TrabajoFinal_PAII\\ESCMB.HybridDDDArchitecture\\ESCMB.HybridDDDArchitecture\\ESCMB.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Usuario\\Documents\\REPOSITORIOS\\ESCMB_TrabajoFinal_PAII\\ESCMB.HybridDDDArchitecture\\ESCMB.HybridDDDArchitecture\\ESCMB.Application\\ESCMB.Application.csproj": {
+                "projectPath": "C:\\Users\\Usuario\\Documents\\REPOSITORIOS\\ESCMB_TrabajoFinal_PAII\\ESCMB.HybridDDDArchitecture\\ESCMB.HybridDDDArchitecture\\ESCMB.Application\\ESCMB.Application.csproj"
+              },
+              "C:\\Users\\Usuario\\Documents\\REPOSITORIOS\\ESCMB_TrabajoFinal_PAII\\ESCMB.HybridDDDArchitecture\\ESCMB.HybridDDDArchitecture\\ESCMB.Infraestructure\\ESCMB.Infraestructure.csproj": {
+                "projectPath": "C:\\Users\\Usuario\\Documents\\REPOSITORIOS\\ESCMB_TrabajoFinal_PAII\\ESCMB.HybridDDDArchitecture\\ESCMB.HybridDDDArchitecture\\ESCMB.Infraestructure\\ESCMB.Infraestructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.17.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Usuario\\Documents\\REPOSITORIOS\\ESCMB_TrabajoFinal_PAII\\ESCMB.HybridDDDArchitecture\\ESCMB.HybridDDDArchitecture\\ESCMB.Application\\ESCMB.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Usuario\\Documents\\REPOSITORIOS\\ESCMB_TrabajoFinal_PAII\\ESCMB.HybridDDDArchitecture\\ESCMB.HybridDDDArchitecture\\ESCMB.Application\\ESCMB.Application.csproj",
+        "projectName": "ESCMB.Application",
+        "projectPath": "C:\\Users\\Usuario\\Documents\\REPOSITORIOS\\ESCMB_TrabajoFinal_PAII\\ESCMB.HybridDDDArchitecture\\ESCMB.HybridDDDArchitecture\\ESCMB.Application\\ESCMB.Application.csproj",
+        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Usuario\\Documents\\REPOSITORIOS\\ESCMB_TrabajoFinal_PAII\\ESCMB.HybridDDDArchitecture\\ESCMB.HybridDDDArchitecture\\ESCMB.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Usuario\\Documents\\REPOSITORIOS\\ESCMB_TrabajoFinal_PAII\\ESCMB.HybridDDDArchitecture\\ESCMB.HybridDDDArchitecture\\ESCMB.Domain\\ESCMB.Domain.csproj": {
+                "projectPath": "C:\\Users\\Usuario\\Documents\\REPOSITORIOS\\ESCMB_TrabajoFinal_PAII\\ESCMB.HybridDDDArchitecture\\ESCMB.HybridDDDArchitecture\\ESCMB.Domain\\ESCMB.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[10.0.1, )"
+            },
+            "Microservices.Common.Application.Adapters.EventBus.Core": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "Microservices.Common.Application.Core": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "Microservices.Common.Application.Repositories.MongoDb.Core": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "Microservices.Common.Application.Repositories.Sql.Core": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Usuario\\Documents\\REPOSITORIOS\\ESCMB_TrabajoFinal_PAII\\ESCMB.HybridDDDArchitecture\\ESCMB.HybridDDDArchitecture\\ESCMB.Domain\\ESCMB.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Usuario\\Documents\\REPOSITORIOS\\ESCMB_TrabajoFinal_PAII\\ESCMB.HybridDDDArchitecture\\ESCMB.HybridDDDArchitecture\\ESCMB.Domain\\ESCMB.Domain.csproj",
+        "projectName": "ESCMB.Domain",
+        "projectPath": "C:\\Users\\Usuario\\Documents\\REPOSITORIOS\\ESCMB_TrabajoFinal_PAII\\ESCMB.HybridDDDArchitecture\\ESCMB.HybridDDDArchitecture\\ESCMB.Domain\\ESCMB.Domain.csproj",
+        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Usuario\\Documents\\REPOSITORIOS\\ESCMB_TrabajoFinal_PAII\\ESCMB.HybridDDDArchitecture\\ESCMB.HybridDDDArchitecture\\ESCMB.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microservices.Common.Domain.Core": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Usuario\\Documents\\REPOSITORIOS\\ESCMB_TrabajoFinal_PAII\\ESCMB.HybridDDDArchitecture\\ESCMB.HybridDDDArchitecture\\ESCMB.Infraestructure\\ESCMB.Infraestructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Usuario\\Documents\\REPOSITORIOS\\ESCMB_TrabajoFinal_PAII\\ESCMB.HybridDDDArchitecture\\ESCMB.HybridDDDArchitecture\\ESCMB.Infraestructure\\ESCMB.Infraestructure.csproj",
+        "projectName": "ESCMB.Infraestructure",
+        "projectPath": "C:\\Users\\Usuario\\Documents\\REPOSITORIOS\\ESCMB_TrabajoFinal_PAII\\ESCMB.HybridDDDArchitecture\\ESCMB.HybridDDDArchitecture\\ESCMB.Infraestructure\\ESCMB.Infraestructure.csproj",
+        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Usuario\\Documents\\REPOSITORIOS\\ESCMB_TrabajoFinal_PAII\\ESCMB.HybridDDDArchitecture\\ESCMB.HybridDDDArchitecture\\ESCMB.Infraestructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Usuario\\Documents\\REPOSITORIOS\\ESCMB_TrabajoFinal_PAII\\ESCMB.HybridDDDArchitecture\\ESCMB.HybridDDDArchitecture\\ESCMB.Application\\ESCMB.Application.csproj": {
+                "projectPath": "C:\\Users\\Usuario\\Documents\\REPOSITORIOS\\ESCMB_TrabajoFinal_PAII\\ESCMB.HybridDDDArchitecture\\ESCMB.HybridDDDArchitecture\\ESCMB.Application\\ESCMB.Application.csproj"
+              },
+              "C:\\Users\\Usuario\\Documents\\REPOSITORIOS\\ESCMB_TrabajoFinal_PAII\\ESCMB.HybridDDDArchitecture\\ESCMB.HybridDDDArchitecture\\ESCMB.Domain\\ESCMB.Domain.csproj": {
+                "projectPath": "C:\\Users\\Usuario\\Documents\\REPOSITORIOS\\ESCMB_TrabajoFinal_PAII\\ESCMB.HybridDDDArchitecture\\ESCMB.HybridDDDArchitecture\\ESCMB.Domain\\ESCMB.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microservices.Common.Infraestructure.Adapters.EventBus.RabbitMq.Core": {
+              "target": "Package",
+              "version": "[1.0.1, )"
+            },
+            "Microservices.Common.Infraestructure.MongoDb.Core": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "Microservices.Common.Infraestructure.Sql.Core": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
