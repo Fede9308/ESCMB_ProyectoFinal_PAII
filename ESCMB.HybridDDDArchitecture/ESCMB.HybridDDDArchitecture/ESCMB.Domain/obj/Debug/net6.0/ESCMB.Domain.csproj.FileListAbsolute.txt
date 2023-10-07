@@ -1,0 +1,12 @@
+C:\Users\Usuario\Documents\REPOSITORIOS\ESCMB_TrabajoFinal_PAII\ESCMB.HybridDDDArchitecture\ESCMB.HybridDDDArchitecture\ESCMB.Domain\bin\Debug\net6.0\ESCMB.Domain.deps.json
+C:\Users\Usuario\Documents\REPOSITORIOS\ESCMB_TrabajoFinal_PAII\ESCMB.HybridDDDArchitecture\ESCMB.HybridDDDArchitecture\ESCMB.Domain\bin\Debug\net6.0\ESCMB.Domain.dll
+C:\Users\Usuario\Documents\REPOSITORIOS\ESCMB_TrabajoFinal_PAII\ESCMB.HybridDDDArchitecture\ESCMB.HybridDDDArchitecture\ESCMB.Domain\bin\Debug\net6.0\ESCMB.Domain.pdb
+C:\Users\Usuario\Documents\REPOSITORIOS\ESCMB_TrabajoFinal_PAII\ESCMB.HybridDDDArchitecture\ESCMB.HybridDDDArchitecture\ESCMB.Domain\obj\Debug\net6.0\ESCMB.Domain.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\REPOSITORIOS\ESCMB_TrabajoFinal_PAII\ESCMB.HybridDDDArchitecture\ESCMB.HybridDDDArchitecture\ESCMB.Domain\obj\Debug\net6.0\ESCMB.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\REPOSITORIOS\ESCMB_TrabajoFinal_PAII\ESCMB.HybridDDDArchitecture\ESCMB.HybridDDDArchitecture\ESCMB.Domain\obj\Debug\net6.0\ESCMB.Domain.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\REPOSITORIOS\ESCMB_TrabajoFinal_PAII\ESCMB.HybridDDDArchitecture\ESCMB.HybridDDDArchitecture\ESCMB.Domain\obj\Debug\net6.0\ESCMB.Domain.AssemblyInfo.cs
+C:\Users\Usuario\Documents\REPOSITORIOS\ESCMB_TrabajoFinal_PAII\ESCMB.HybridDDDArchitecture\ESCMB.HybridDDDArchitecture\ESCMB.Domain\obj\Debug\net6.0\ESCMB.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\REPOSITORIOS\ESCMB_TrabajoFinal_PAII\ESCMB.HybridDDDArchitecture\ESCMB.HybridDDDArchitecture\ESCMB.Domain\obj\Debug\net6.0\ESCMB.Domain.dll
+C:\Users\Usuario\Documents\REPOSITORIOS\ESCMB_TrabajoFinal_PAII\ESCMB.HybridDDDArchitecture\ESCMB.HybridDDDArchitecture\ESCMB.Domain\obj\Debug\net6.0\refint\ESCMB.Domain.dll
+C:\Users\Usuario\Documents\REPOSITORIOS\ESCMB_TrabajoFinal_PAII\ESCMB.HybridDDDArchitecture\ESCMB.HybridDDDArchitecture\ESCMB.Domain\obj\Debug\net6.0\ESCMB.Domain.pdb
+C:\Users\Usuario\Documents\REPOSITORIOS\ESCMB_TrabajoFinal_PAII\ESCMB.HybridDDDArchitecture\ESCMB.HybridDDDArchitecture\ESCMB.Domain\obj\Debug\net6.0\ref\ESCMB.Domain.dll

@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Reflection.Metadata;
 using System.Text;
 using System.Threading.Tasks;
 using Common.Domain.Entities;
@@ -9,7 +10,7 @@ using static ESCMB.Domain.Enums;
 
 namespace ESCMB.Domain.Entities
 {
-    internal class Client : DomainEntity<ClientValidator>
+    public class Client : DomainEntity<ClientValidator>
     {
 
         public int Id { get; private set; } 
@@ -22,7 +23,19 @@ namespace ESCMB.Domain.Entities
 
         public string Email {get; private set; }
 
+        //public string Direccion { get; private set; }       
 
+        //public User Usuario { get; private set; }
+
+        public Client()
+        {
+            
+        }
+
+        public Client(string id, string nombre, string apellido, long dni, string email)
+        {
+            
+        }
 
 
 

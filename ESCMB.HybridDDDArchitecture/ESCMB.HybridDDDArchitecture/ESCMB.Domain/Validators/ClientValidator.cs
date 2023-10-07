@@ -10,7 +10,7 @@ using FluentValidation;
 
 namespace ESCMB.Domain.Validators
 {
-    internal class ClientValidator : EntityValidator<Client>
+    public class ClientValidator : EntityValidator<Client>
     {
         public ClientValidator() 
         {
