@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "2DJK/bX4NaAJf3ulMO/cT1fNAMI090llJ9QUoDZMMPk=",
+  "Source": "ESCMB.API",
+  "BasePath": "_content/ESCMB.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

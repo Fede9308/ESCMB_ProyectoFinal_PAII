@@ -9,6 +9,7 @@ namespace ESCMB.Infraestructure.Repositories.Sql
     internal sealed class StoreDbContext : DbContext
     {
         public DbSet<Domain.Entities.DummyEntity> DummyEntity { get; set; }
+        public DbSet<Domain.Entities.Client> ClientEntity { get; set; }
 
         public StoreDbContext(DbContextOptions<StoreDbContext> options) : base(options)
         {
@@ -20,6 +21,11 @@ namespace ESCMB.Infraestructure.Repositories.Sql
 
             modelBuilder.Entity<Domain.Entities.DummyEntity>().Ignore(type => type.ValidationErrors);
             modelBuilder.Entity<Domain.Entities.DummyEntity>().Ignore(type => type.IsValid);
+
+            modelBuilder.Entity<Domain.Entities.Client>().ToTable("Client");
+
+            modelBuilder.Entity<Domain.Entities.Client>().Ignore(type => type.ValidationErrors);
+            modelBuilder.Entity<Domain.Entities.Client>().Ignore(type => type.IsValid);
         }
     }
 }

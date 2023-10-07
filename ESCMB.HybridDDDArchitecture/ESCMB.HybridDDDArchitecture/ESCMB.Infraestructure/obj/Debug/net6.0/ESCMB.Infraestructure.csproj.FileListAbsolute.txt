@@ -1,0 +1,17 @@
+C:\Users\Usuario\Documents\REPOSITORIOS\ESCMB_TrabajoFinal_PAII\ESCMB.HybridDDDArchitecture\ESCMB.HybridDDDArchitecture\ESCMB.Infraestructure\bin\Debug\net6.0\ESCMB.Infraestructure.deps.json
+C:\Users\Usuario\Documents\REPOSITORIOS\ESCMB_TrabajoFinal_PAII\ESCMB.HybridDDDArchitecture\ESCMB.HybridDDDArchitecture\ESCMB.Infraestructure\bin\Debug\net6.0\ESCMB.Infraestructure.dll
+C:\Users\Usuario\Documents\REPOSITORIOS\ESCMB_TrabajoFinal_PAII\ESCMB.HybridDDDArchitecture\ESCMB.HybridDDDArchitecture\ESCMB.Infraestructure\bin\Debug\net6.0\ESCMB.Infraestructure.pdb
+C:\Users\Usuario\Documents\REPOSITORIOS\ESCMB_TrabajoFinal_PAII\ESCMB.HybridDDDArchitecture\ESCMB.HybridDDDArchitecture\ESCMB.Infraestructure\bin\Debug\net6.0\ESCMB.Application.dll
+C:\Users\Usuario\Documents\REPOSITORIOS\ESCMB_TrabajoFinal_PAII\ESCMB.HybridDDDArchitecture\ESCMB.HybridDDDArchitecture\ESCMB.Infraestructure\bin\Debug\net6.0\ESCMB.Domain.dll
+C:\Users\Usuario\Documents\REPOSITORIOS\ESCMB_TrabajoFinal_PAII\ESCMB.HybridDDDArchitecture\ESCMB.HybridDDDArchitecture\ESCMB.Infraestructure\bin\Debug\net6.0\ESCMB.Application.pdb
+C:\Users\Usuario\Documents\REPOSITORIOS\ESCMB_TrabajoFinal_PAII\ESCMB.HybridDDDArchitecture\ESCMB.HybridDDDArchitecture\ESCMB.Infraestructure\bin\Debug\net6.0\ESCMB.Domain.pdb
+C:\Users\Usuario\Documents\REPOSITORIOS\ESCMB_TrabajoFinal_PAII\ESCMB.HybridDDDArchitecture\ESCMB.HybridDDDArchitecture\ESCMB.Infraestructure\obj\Debug\net6.0\ESCMB.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\REPOSITORIOS\ESCMB_TrabajoFinal_PAII\ESCMB.HybridDDDArchitecture\ESCMB.HybridDDDArchitecture\ESCMB.Infraestructure\obj\Debug\net6.0\ESCMB.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\REPOSITORIOS\ESCMB_TrabajoFinal_PAII\ESCMB.HybridDDDArchitecture\ESCMB.HybridDDDArchitecture\ESCMB.Infraestructure\obj\Debug\net6.0\ESCMB.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\REPOSITORIOS\ESCMB_TrabajoFinal_PAII\ESCMB.HybridDDDArchitecture\ESCMB.HybridDDDArchitecture\ESCMB.Infraestructure\obj\Debug\net6.0\ESCMB.Infraestructure.AssemblyInfo.cs
+C:\Users\Usuario\Documents\REPOSITORIOS\ESCMB_TrabajoFinal_PAII\ESCMB.HybridDDDArchitecture\ESCMB.HybridDDDArchitecture\ESCMB.Infraestructure\obj\Debug\net6.0\ESCMB.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\REPOSITORIOS\ESCMB_TrabajoFinal_PAII\ESCMB.HybridDDDArchitecture\ESCMB.HybridDDDArchitecture\ESCMB.Infraestructure\obj\Debug\net6.0\ESCMB.Infraestructure.csproj.CopyComplete
+C:\Users\Usuario\Documents\REPOSITORIOS\ESCMB_TrabajoFinal_PAII\ESCMB.HybridDDDArchitecture\ESCMB.HybridDDDArchitecture\ESCMB.Infraestructure\obj\Debug\net6.0\ESCMB.Infraestructure.dll
+C:\Users\Usuario\Documents\REPOSITORIOS\ESCMB_TrabajoFinal_PAII\ESCMB.HybridDDDArchitecture\ESCMB.HybridDDDArchitecture\ESCMB.Infraestructure\obj\Debug\net6.0\refint\ESCMB.Infraestructure.dll
+C:\Users\Usuario\Documents\REPOSITORIOS\ESCMB_TrabajoFinal_PAII\ESCMB.HybridDDDArchitecture\ESCMB.HybridDDDArchitecture\ESCMB.Infraestructure\obj\Debug\net6.0\ESCMB.Infraestructure.pdb
+C:\Users\Usuario\Documents\REPOSITORIOS\ESCMB_TrabajoFinal_PAII\ESCMB.HybridDDDArchitecture\ESCMB.HybridDDDArchitecture\ESCMB.Infraestructure\obj\Debug\net6.0\ref\ESCMB.Infraestructure.dll

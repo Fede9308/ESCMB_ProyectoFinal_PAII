@@ -8,7 +8,10 @@ using System.Threading.Tasks;
 
 namespace ESCMB.Application.Repositories.Sql
 {
-    internal interface IClientRepository : IRepository<Client>
+    public interface IClientRepository : IRepository<Client>
     {
+
+        Task<string> AddOneAsync(Client entity);
+
     }
 }

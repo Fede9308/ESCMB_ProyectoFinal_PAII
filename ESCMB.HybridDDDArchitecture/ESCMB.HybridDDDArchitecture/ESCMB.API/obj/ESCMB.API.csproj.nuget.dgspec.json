@@ -31,9 +31,6 @@
               "C:\\Users\\Usuario\\Documents\\REPOSITORIOS\\ESCMB_TrabajoFinal_PAII\\ESCMB.HybridDDDArchitecture\\ESCMB.HybridDDDArchitecture\\ESCMB.Application\\ESCMB.Application.csproj": {
                 "projectPath": "C:\\Users\\Usuario\\Documents\\REPOSITORIOS\\ESCMB_TrabajoFinal_PAII\\ESCMB.HybridDDDArchitecture\\ESCMB.HybridDDDArchitecture\\ESCMB.Application\\ESCMB.Application.csproj"
               },
-              "C:\\Users\\Usuario\\Documents\\REPOSITORIOS\\ESCMB_TrabajoFinal_PAII\\ESCMB.HybridDDDArchitecture\\ESCMB.HybridDDDArchitecture\\ESCMB.Domain\\ESCMB.Domain.csproj": {
-                "projectPath": "C:\\Users\\Usuario\\Documents\\REPOSITORIOS\\ESCMB_TrabajoFinal_PAII\\ESCMB.HybridDDDArchitecture\\ESCMB.HybridDDDArchitecture\\ESCMB.Domain\\ESCMB.Domain.csproj"
-              },
               "C:\\Users\\Usuario\\Documents\\REPOSITORIOS\\ESCMB_TrabajoFinal_PAII\\ESCMB.HybridDDDArchitecture\\ESCMB.HybridDDDArchitecture\\ESCMB.Infraestructure\\ESCMB.Infraestructure.csproj": {
                 "projectPath": "C:\\Users\\Usuario\\Documents\\REPOSITORIOS\\ESCMB_TrabajoFinal_PAII\\ESCMB.HybridDDDArchitecture\\ESCMB.HybridDDDArchitecture\\ESCMB.Infraestructure\\ESCMB.Infraestructure.csproj"
               }
@@ -278,10 +275,6 @@
             "Microservices.Common.Infraestructure.Adapters.EventBus.RabbitMq.Core": {
               "target": "Package",
               "version": "[1.0.1, )"
-            },
-            "Microservices.Common.Infraestructure.MongoDb.Core": {
-              "target": "Package",
-              "version": "[1.0.0, )"
             },
             "Microservices.Common.Infraestructure.Sql.Core": {
               "target": "Package",

@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace ESCMB.Application.UseCases.Client.Commands.RegisterClient
 {
-    internal class RegisterClientCommand : IRequestCommand<string>
+    public class RegisterClientCommand : IRequestCommand<string>
     {
         [Required]
         public string Email { get; set; }
