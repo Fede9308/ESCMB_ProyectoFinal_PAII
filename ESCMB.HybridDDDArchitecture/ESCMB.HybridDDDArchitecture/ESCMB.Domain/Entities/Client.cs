@@ -32,9 +32,15 @@ namespace ESCMB.Domain.Entities
             
         }
 
-        public Client(string id, string nombre, string apellido, long dni, string email)
+        public Client(int id, string nombre, string apellido, long dni, string email)
         {
-            
+            Id = id;
+            Nombre = nombre;
+            Apellido = apellido;    
+            Email = email;
+            DNI = dni;
+
+
         }
 
 
