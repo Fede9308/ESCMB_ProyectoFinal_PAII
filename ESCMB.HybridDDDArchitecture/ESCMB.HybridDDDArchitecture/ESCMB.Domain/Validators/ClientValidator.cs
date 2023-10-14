@@ -14,9 +14,9 @@ namespace ESCMB.Domain.Validators
     {
         public ClientValidator() 
         {
-            //RuleFor(x => x.Nombre).NotNull().NotEmpty().WithMessage(Constants.NOTNULL_OR_EMPTY);
-           // RuleFor(x => x.Apellido).NotNull().NotEmpty().WithMessage(Constants.NOTNULL_OR_EMPTY);
-           // RuleFor(x => x.DNI).NotNull().NotEmpty().WithMessage(Constants.NOTNULL_OR_EMPTY);
+            RuleFor(x => x.Nombre).NotNull().NotEmpty().WithMessage(Constants.NOTNULL_OR_EMPTY);
+            RuleFor(x => x.Apellido).NotNull().NotEmpty().WithMessage(Constants.NOTNULL_OR_EMPTY);
+            RuleFor(x => x.DNI).NotNull().NotEmpty().WithMessage(Constants.NOTNULL_OR_EMPTY);
             
         }
     }
