@@ -32,6 +32,14 @@ namespace ESCMB.Domain.Entities
             
         }
 
+        public Client(string nombre, string apellido, long dni, string email)
+        {
+            Nombre = nombre;
+            Apellido = apellido;
+            Email = email;
+            DNI = dni;
+        }
+
         public Client(int id, string nombre, string apellido, long dni, string email)
         {
             Id = id;
@@ -43,7 +51,25 @@ namespace ESCMB.Domain.Entities
 
         }
 
+        public void SetClientNombre(string value)
+        {
+            Nombre = value ?? throw new ArgumentNullException(nameof(value));
+        }
 
+        public void SetClientApellido(string value)
+        {
+            Apellido = value ?? throw new ArgumentNullException(nameof(value));
+        }
+
+        public void SetClientDNI(long value)
+        {
+            DNI = value;
+        }
+
+        public void SetClientEmail(string value)
+        {
+            Email = value ?? throw new ArgumentNullException(nameof(value));
+        }
 
     }
 }

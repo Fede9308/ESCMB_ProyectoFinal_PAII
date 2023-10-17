@@ -11,7 +11,18 @@ namespace ESCMB.Application.UseCases.Client.Commands.RegisterClient
     public class RegisterClientCommand : IRequestCommand<string>
     {
         [Required]
+        public string Nombre { get; set; }
+
+        [Required]
+        public string Apellido { get; set; }
+
+        [Required]
+        public long DNI { get; set; }
+
+        [Required]
         public string Email { get; set; }
+
+
 
         public RegisterClientCommand() { }
     }
