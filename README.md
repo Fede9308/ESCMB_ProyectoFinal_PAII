@@ -1,3 +1,13 @@
+
+Este es el proyecto final de Programacion Aplicada 2 AUSI ESCMB de :
+-Sciarini Christian Andres
+-Petri Francisco
+-Duartez Guillermo Daniel
+-Guillen Jonathan Eduardo
+-Reyna Amaranto Tiago Joel
+-Velasco Gonzalo Javier
+-Becerra Federico Fabricio
+
 # ESCMB.HybridDDDArchitecture
 
 Este proyecto es un template que se utiliza como base para inicializar los desarrollos de las aplicaciones propuestas en la Materia Programación Aplicada II de la Escuela Superior de Comercio Manuel Belgrano.

@@ -276,10 +276,6 @@
               "target": "Package",
               "version": "[1.0.1, )"
             },
-            "Microservices.Common.Infraestructure.MongoDb.Core": {
-              "target": "Package",
-              "version": "[1.0.0, )"
-            },
             "Microservices.Common.Infraestructure.Sql.Core": {
               "target": "Package",
               "version": "[1.0.0, )"

@@ -2,7 +2,7 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
-using MongoDB.Bson.Serialization.Conventions;
+//using MongoDB.Bson.Serialization.Conventions;
 using System.Data;
 
 namespace ESCMB.Infraestructure.Registrations
@@ -34,21 +34,22 @@ namespace ESCMB.Infraestructure.Registrations
 
             /* Sql Repositories */
             services.AddTransient<Application.Repositories.Sql.IDummyEntityRepository, Repositories.Sql.DummyEntityRepository>();
+            services.AddTransient<Application.Repositories.Sql.IClientRepository, Repositories.Sql.ClientRepository>();
 
             return services;
         }
 
-        private static IServiceCollection AddMongoDbRepositories(this IServiceCollection services, IConfiguration configuration)
-        {
-            ConventionRegistry.Register("Camel Case", new ConventionPack { new CamelCaseElementNameConvention() }, _ => true);
+       // private static IServiceCollection AddMongoDbRepositories(this IServiceCollection services, IConfiguration configuration)
+      //  {
+        //    ConventionRegistry.Register("Camel Case", new ConventionPack { new CamelCaseElementNameConvention() }, _ => true);
 
-            Repositories.Mongo.StoreDbContext db = new Repositories.Mongo.StoreDbContext(configuration.GetConnectionString("MongoConnection"));
-            services.AddSingleton(typeof(Repositories.Mongo.StoreDbContext), db);
+        //    Repositories.Mongo.StoreDbContext db = new Repositories.Mongo.StoreDbContext(configuration.GetConnectionString("MongoConnection"));
+       //     services.AddSingleton(typeof(Repositories.Mongo.StoreDbContext), db);
 
             /* MongoDb Repositories */
-            services.AddTransient<Application.Repositories.Mongo.IDummyEntityRepository, Repositories.Mongo.DummyEntityRepository>();
-
-            return services;
-        }
+        //    services.AddTransient<Application.Repositories.Mongo.IDummyEntityRepository, Repositories.Mongo.DummyEntityRepository>();
+        //
+       //     return services;
+      //  }
     }
 }
